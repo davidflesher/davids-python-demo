@@ -1,0 +1,4 @@
+import numpy as np
+
+numb = np.arange(50).reshape(5, 10)
+o
